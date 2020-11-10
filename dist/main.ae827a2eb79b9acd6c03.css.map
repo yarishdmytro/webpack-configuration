@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://task2/./src/App.css"],"names":[],"mappings":"AAAA;EACE,cAAc;EACd,kBAAkB;AACpB,C","file":"main.ae827a2eb79b9acd6c03.css","sourcesContent":["h1 {\n  color: #27aedb;\n  text-align: center;\n}"],"sourceRoot":""}
